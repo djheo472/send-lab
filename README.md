@@ -16,3 +16,11 @@ Each page is an ordinary HTML file. Edit a page in GitHub and commit the change;
 Keep only content intended for public viewing in this repository. Source files and commit history are public. Research figures remain subject to their respective rights.
 
 GitHub Pages: deploy from the `main` branch, `/ (root)` folder.
+
+## Website and search discovery
+
+- Public website: https://djheo472.github.io/send-lab/
+- 국립금오공과대학교 기계공학부 허덕재 교수(Deokjae Heo)의 센서/에너지/나노기술소자연구실입니다.
+- `sitemap.xml` lists the seven public pages for search engines.
+- Page titles and descriptions use the professor’s Korean and English names.
+- If the website address changes, update canonical links, social metadata, structured data and sitemap URLs together.
